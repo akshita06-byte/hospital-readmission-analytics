@@ -1,0 +1,5 @@
+med_bucket,total_encounters,readmissions_30,readmission_rate_pct,min_meds,max_meds
+1-10 (Low),25311,2332,9.21,1,10
+11-20 (Moderate),50942,5938,11.66,11,20
+21-30 (High),18076,2394,13.24,21,30
+31+ (Polypharmacy),5011,650,12.97,31,81
