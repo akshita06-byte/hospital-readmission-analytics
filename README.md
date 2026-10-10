@@ -219,9 +219,3 @@ python run_analysis_and_export.py
 Follow the click-by-click instructions in [TABLEAU_GUIDE.md](file:///c:/Users/DELL/Desktop/Healthcare_project/hospital-readmission-analytics/TABLEAU_GUIDE.md).
 
 ---
-
-## Author & Contact
-
-* **Candidate:** B.Tech Computer Science Student
-* **Target Role:** Data Analyst Intern at Innovaccer
-* **Portfolio Focus:** Healthcare Data Architecture, SQL Engineering, BI Dashboard Design
