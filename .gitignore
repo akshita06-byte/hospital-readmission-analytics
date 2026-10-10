@@ -1,0 +1,31 @@
+# Environment and secret credential files
+.env
+.env.*
+!.env.example
+
+# Raw Data files (downloaded directly from UCI repository; do not commit large/raw data)
+data/diabetic_data.csv
+data/IDs_mapping.csv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and logs
+*.log
+.venv
+env/
+venv/
+
+# Operating system artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
