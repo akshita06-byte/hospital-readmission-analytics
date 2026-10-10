@@ -1,0 +1,7 @@
+# Core data pipeline dependencies
+pandas>=2.0.0
+pymysql>=1.1.0
+python-dotenv>=1.0.0
+
+# Optional cryptographic support for MySQL 8 caching_sha2_password authentication
+cryptography>=41.0.0

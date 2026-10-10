@@ -66,6 +66,7 @@ To download the raw data:
 hospital-readmission-analytics/
 ├── .env.example                        # Template for database credentials (no real secrets)
 ├── .gitignore                          # Ignores .env and raw data files
+├── requirements.txt                    # Python package dependencies
 ├── README.md                           # Project documentation, findings, and reproduction guide
 ├── FINDINGS.md                         # Detailed clinical findings, audit table, and interview Q&A
 ├── TABLEAU_GUIDE.md                    # Click-by-click Tableau Public dashboard build instructions
@@ -169,7 +170,7 @@ All figures reflect verified database outputs:
 ### Prerequisites
 * Windows OS with PowerShell
 * MySQL 8.0+ running locally (`root` user access)
-* Python 3.10+ with `pandas`, `pymysql`, `python-dotenv` (`pip install pandas pymysql python-dotenv`)
+* Python 3.10+ (`pip install -r requirements.txt`)
 * Tableau Public Desktop (free)
 
 ### Step 1: Clone Repository
