@@ -16,7 +16,9 @@ Healthcare data analytics portfolio project analyzing clinical, operational, and
 [![Hospital Readmission Analytics Dashboard](dashboard/dashboard_screenshot.png)](https://public.tableau.com/)
 
 > **Live Tableau Public Dashboard:**  
-> [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Hospital-Readmission-Analytics-Innovaccer/Dashboard1) *(Replace with your link after publishing)*
+> [View Interactive Dashboard on Tableau Public]
+
+https://public.tableau.com/views/Hospital-Readmission-Analytics/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
